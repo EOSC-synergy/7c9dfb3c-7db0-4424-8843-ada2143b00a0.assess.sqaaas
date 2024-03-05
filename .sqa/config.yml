@@ -15,5 +15,5 @@ sqa_criteria:
         - fair-eva.py --id 7c9dfb3c-7db0-4424-8843-ada2143b00a0 --plugin epos --repository
           https://ics-c.epos-ip.org/development/k8s-epos-deploy/dt-geo/api/v1 --api-endpoint
           http://localhost:9090/v1.0/rda/rda_all
-        container: qc.fair_pasty-amber-pinscher
+        container: qc.fair_stinky-teal-quail
 timeout: 5400
