@@ -1,7 +1,7 @@
 services:
-  qc.fair_skimpy-cream-weasel:
+  qc.fair_scanty-scarlet-goat:
     command: sleep 6000000
-    image: eoscsynergy/sqaaas-fair_eva:epos-prototype-alpha4
+    image: eoscsynergy/sqaaas-fair_eva:epos-prototype-alpha6
     volumes:
     - source: ./
       target: /sqaaas-build
