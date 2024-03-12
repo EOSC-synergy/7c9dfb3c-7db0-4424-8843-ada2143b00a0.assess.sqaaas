@@ -1,7 +1,7 @@
 services:
-  qc.fair_messy-goldenrod-caracal:
+  qc.fair_lanky-khaki-lynx:
     command: sleep 6000000
-    image: eoscsynergy/sqaaas-fair_eva:epos-prototype-alpha6
+    image: eoscsynergy/sqaaas-fair_eva:2.0.0
     volumes:
     - source: ./
       target: /sqaaas-build
